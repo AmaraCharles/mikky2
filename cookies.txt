@@ -1,8 +1,8 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-toptradexp.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
-toptradexp.com	TRUE	/	FALSE	1999999999	PHPSESSID	d2ubjp6pkgjtlkud12e8iugo64
+toptradesxp.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+toptradesxp.com	TRUE	/	FALSE	1999999999	PHPSESSID	d2ubjp6pkgjtlkud12e8iugo64
 www.thedrive.com	TRUE	/	FALSE	1999999999	client_geo_country	NG
-toptradexp.com	TRUE	/	FALSE	1999999999	password	deleted
-toptradexp.com	TRUE	/	FALSE	1999999999	password2	deleted
+toptradesxp.com	TRUE	/	FALSE	1999999999	password	deleted
+toptradesxp.com	TRUE	/	FALSE	1999999999	password2	deleted
 

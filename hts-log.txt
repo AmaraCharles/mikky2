@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Aug 2023 22:47:10 at https://toptradexp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 29 Aug 2023 22:47:10 at https://toptradesxp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 toptradexp
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tradeedgecap.com/ -O1 "C:\My Web Sites\michael" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
@@ -14,51 +14,51 @@ toptradexptoptradexp
 toptradexptoptradexp
 toptradexptoptradexp
 toptradexptoptradexp
-22:48:40	Error: 	"Forbidden" (403) at link https://toptradexp.com/tradeedgecap.com (from httptoptradexpecap.com/)
+22:48:40	Error: 	"Forbidden" (403) at link https://toptradesxp.com/tradeedgecap.com (from httptoptradexpecap.com/)
 toptradexptoptradexp
-22:49:02	Error: 	"Not Found" (404) at link https://toptradexp.com/“https://www.smartsupp.com”toptradexp://tradeedgecap.com/)
+22:49:02	Error: 	"Not Found" (404) at link https://toptradesxp.com/“https://www.smartsupp.com”toptradexp://tradeedgecap.com/)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/images/banner/MG_3474-1_.jptoptradexpps://tradeedgecap.com/?a=option-copy-trading)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/images/banner/MG_3474-1_.jptoptradexpps://tradeedgecap.com/?a=option-copy-trading)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/images/services/knowledge.jtoptradexptps://tradeedgecap.com/?a=option-copy-trading)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/images/services/knowledge.jtoptradexptps://tradeedgecap.com/?a=option-copy-trading)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-usd.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-usd.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/gbp-usd.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/gbp-usd.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-chf.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-chf.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-jpy.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-jpy.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/cad-chf.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/cad-chf.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/cad-jpy.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/cad-jpy.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-cad.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-cad.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/chf-jpy.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/chf-jpy.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-cad.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-cad.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-chf.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-chf.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-gbp.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-gbp.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-jpy.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-jpy.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/gbp-cad.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/gbp-cad.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/gbp-chf.html (from https://toptradexp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/gbp-chf.html (from https://toptradesxp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/gbp-jpy.html (from https:/toptradexpp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/gbp-jpy.html (from https:/toptradexpp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/aud-cad.html (from https:/toptradexpp.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/aud-cad.html (from https:/toptradexpp.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/aud-chf.html (from https:toptradexpap.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/aud-chf.html (from https:toptradexpap.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/aud-jpy.html (from https:toptradexpap.com/?a=forex)
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/aud-jpy.html (from https:toptradexpap.com/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/aud-nzd.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/aud-nzd.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexp
 22:50:49	Error: 	"Not Found" (404) at link https://tradeedgecap.com/aud-usd.html (from https://trtoptradexpom/?a=forex)
 toptradexp
@@ -82,43 +82,43 @@ toptradexp
 toptradexp
 22:50:49	Error: 	"Not Found" (404) at link https://tradeedgecap.com/eur-pln.html (from https://trtoptradexpom/?a=forex)
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-sek.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-sek.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/eur-try.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/eur-try.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-dkk.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-dkk.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-huf.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-huf.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-nok.html (from https://tradeedgecap.com/?a=foretoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-nok.html (from https://tradeedgecap.com/?a=foretoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-pln.html (from https://tradeedgecap.com/?a=forextoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-pln.html (from https://tradeedgecap.com/?a=forextoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-sek.html (from https://tradeedgecap.com/?a=foretoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-sek.html (from https://tradeedgecap.com/?a=foretoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-sgd.html (from https://tradeedgecap.com/?a=fotoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-sgd.html (from https://tradeedgecap.com/?a=fotoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-try.html (from https://tradeedgecap.com/?a=fotoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-try.html (from https://tradeedgecap.com/?a=fotoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usd-zar.html (from https://tradeedgecap.com/?a=forex)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usd-zar.html (from https://tradeedgecap.com/?a=forex)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/aus200.html (from https://tradeedgecap.com/?a=indictoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/aus200.html (from https://tradeedgecap.com/?a=indictoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/fra40.html (from https://tradeedgecap.com/?a=indictoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/fra40.html (from https://tradeedgecap.com/?a=indictoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/jpn225.html (from https://tradeedgecap.com/?a=indices)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/jpn225.html (from https://tradeedgecap.com/?a=indices)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/uk100.html (from https://tradeedgecap.com/?a=indicestoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/uk100.html (from https://tradeedgecap.com/?a=indicestoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/ger30.html (from https://tradeedgecap.com/?a=indicetoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/ger30.html (from https://tradeedgecap.com/?a=indicetoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usa500.html (from https://tradeedgecap.com/?a=indices)toptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usa500.html (from https://tradeedgecap.com/?a=indices)toptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usa30.html (from https://tradeedgecap.com/?a=indictoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usa30.html (from https://tradeedgecap.com/?a=indictoptradexp
 toptradexptoptradexp
-22:50:49	Error: 	"Not Found" (404) at link https://toptradexp.com/usa100.html (from https://tradeedgecap.com/?a=indtoptradexp
+22:50:49	Error: 	"Not Found" (404) at link https://toptradesxp.com/usa100.html (from https://tradeedgecap.com/?a=indtoptradexp
 toptradexptoptradexp
-22:51:28	Error: 	"Not Found" (404) at link https://toptradexp.com/dash/plugins/jvectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet toptradexp//tradeedgecap.com/?a=faq)
+22:51:28	Error: 	"Not Found" (404) at link https://toptradesxp.com/dash/plugins/jvectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet toptradexp//tradeedgecap.com/?a=faq)
 toptradexptoptradexp
 22:52:26	Warning: 	File not parsed, looks like binatoptradexptradeedgecap.com/assets/fonts/fa-brands-400.htmltoptradexp
 toptradexptoptradexp
