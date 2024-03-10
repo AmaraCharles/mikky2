@@ -450,7 +450,7 @@
 
 
                     <div class="mt-2 mb-4">
-                        <h2 class="text-light pb-2">Welcome<span id="username"></span></h2>
+                        <h2 class="text-light pb-2">Welcome<span id="username2"></span></h2>
                                                             <h5 id="ann" class="text-lightop-7 mb-4">Welcome to toptradexp trading platform</h5>
                                                                 
                             
@@ -777,6 +777,8 @@
                       
                           const userInfo = await fetchUserInfo();
                                $("#username").html(userInfo.firstName + " " + userInfo.lastName);
+                               $("#username2").html(userInfo.firstName + " " + userInfo.lastName);
+                               
                                $("#email").html(userInfo.email);
                                $("#accountBalance").html('$'+ userInfo.balance);
                                $("#profit").html('$'+ userInfo.profit);
